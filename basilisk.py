@@ -1,4 +1,4 @@
-# April Fools Script 2
+# RattleBasilisk
 # By Jean-Jacques F. Reibel
 # I will not be held responsible for:
 # any shenanigans
